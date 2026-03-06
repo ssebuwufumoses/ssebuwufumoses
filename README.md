@@ -1,6 +1,6 @@
 # Hi, I'm Moses 👋
 
-### WordPress Developer | Digital Skills Trainer | Founder at Pressmentor Foundation
+### WordPress Developer | Digital Skills Trainer
 
 I am a developer based in Uganda, passionate about enterprise-grade WordPress performance, web accessibility (WCAG), and building the local tech ecosystem. I write custom WordPress themes and plugins, with a heavy focus on modern Full Site Editing (FSE).
 
