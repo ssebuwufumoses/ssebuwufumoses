@@ -1,20 +1,36 @@
-# Hi, I'm Moses 👋
+# Moses Ssebuwufu
 
-### WordPress Developer | Digital Skills Trainer
+**WordPress Developer · Digital Skills Trainer** — Uganda
 
-I am a developer based in Uganda, passionate about enterprise-grade WordPress performance, web accessibility (WCAG), and building the local tech ecosystem. I write custom WordPress themes and plugins, with a heavy focus on modern Full Site Editing (FSE).
+I build websites, WordPress plugins and custom business systems for businesses, schools and NGOs, and I train teams to use digital tools in their work.
 
-## What I'm Up To
-* **I'm currently working on:** **CorePulse**, a server-centric hydration and performance monitoring engine for WordPress.
-* **I'm architecting** a data liberation tool to migrate websites from proprietary builders to WordPress.
-* **I'm currently learning:** Advanced React for custom Gutenberg block development.
-* **Ask me about:** Full Site Editing (FSE), Core Web Vitals, Hydration Logic, and WCAG Compliance.
-* **Community:** Running tech talent accelerator programs at the **Pressmentor Foundation**.
+[![Website](https://img.shields.io/badge/ssebuwufu.com-0A66C2?style=flat&logo=wordpress&logoColor=white)](https://ssebuwufu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ssebuwufumoses-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssebuwufumoses)
+[![X](https://img.shields.io/badge/X-@EduTechCenter-000000?style=flat&logo=x&logoColor=white)](https://x.com/EduTechCenter)
 
-## ⚡ Tech Stack
-* **Core:** WordPress, PHP, Elementor, React
-* **Specialties:** Custom Themes & Plugins, Core Web Vitals, Performance Optimization, WCAG Compliance
+---
 
-## Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/ssebuwufumoses)
-* [X (Twitter)](https://x.com/EduTechCenter)
+## Services
+
+- **Web design & development** — WordPress sites and WooCommerce stores.
+- **Business systems** — custom web applications and dashboards that replace spreadsheets and paperwork.
+- **AI & automation** — connecting websites, forms, payments and apps so routine work runs on its own.
+- **Website care** — updates, security, fixes and new features.
+- **Digital literacy training** — practical training for teachers, communities, small businesses and staff.
+
+## Selected work
+
+| Project | Type | Description |
+| --- | --- | --- |
+| Victory Coffee Factory | Business system | Milling management system tracking fees, farmer records and husk stock. |
+| [Shashura Mobile Money for CampTix](https://wordpress.org/plugins/shashura-mobile-money-for-camptix/) | WordPress plugin | Event ticket payments with MTN and Airtel Mobile Money. |
+| [Eco-Shield](https://wordpress.org/plugins/eco-shield/) | WordPress plugin | Lightweight YouTube/Vimeo embeds for faster, privacy-friendly pages. |
+| [Simple Coming Soon](https://wordpress.org/plugins/simple-coming-soon/) | WordPress plugin | Hides a site from visitors while the owner works on it. |
+
+## Tech stack
+
+WordPress (themes, plugins, block editor) · PHP · JavaScript / React · MySQL · WooCommerce · HTML / CSS
+
+---
+
+**Start a project:** [ssebuwufu.com](https://ssebuwufu.com)
