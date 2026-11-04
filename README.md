@@ -18,15 +18,6 @@ I build websites, WordPress plugins and custom business systems for businesses, 
 - **Website care** — updates, security, fixes and new features.
 - **Digital literacy training** — practical training for teachers, communities, small businesses and staff.
 
-## Selected work
-
-| Project | Type | Description |
-| --- | --- | --- |
-| Victory Coffee Factory | Business system | Milling management system tracking fees, farmer records and husk stock. |
-| [Shashura Mobile Money for CampTix](https://wordpress.org/plugins/shashura-mobile-money-for-camptix/) | WordPress plugin | Event ticket payments with MTN and Airtel Mobile Money. |
-| [Eco-Shield](https://wordpress.org/plugins/eco-shield/) | WordPress plugin | Lightweight YouTube/Vimeo embeds for faster, privacy-friendly pages. |
-| [Simple Coming Soon](https://wordpress.org/plugins/simple-coming-soon/) | WordPress plugin | Hides a site from visitors while the owner works on it. |
-
 ## Tech stack
 
 WordPress (themes, plugins, block editor) · PHP · JavaScript / React · MySQL · WooCommerce · HTML / CSS
