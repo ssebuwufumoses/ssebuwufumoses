@@ -1,10 +1,12 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:21759B&height=180&section=header&text=Moses%20Ssebuwufu&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Digital%20solutions%20and%20skills%20development&descAlignY=58&descSize=16" width="100%" alt="Moses Ssebuwufu — Digital solutions and skills development" />
+<!-- Header banner: matches ssebuwufu.com (#0A0A0A, #D20A00, DM Sans) -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0A0A0A&height=200&section=header&text=Digital%20solutions%20and%20skills%20development.&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=Moses%20Ssebuwufu%20%C2%B7%20ssebuwufu.com&descAlignY=66&descSize=16&animation=fadeIn" width="100%" alt="Digital solutions and skills development — Moses Ssebuwufu" />
 
 <div align="center">
 
+<a href="https://ssebuwufu.com"><img src="https://ssebuwufu.com/wp-content/uploads/2026/10/favicon-150x150.png" width="56" alt="Ssebuwufu logo" /></a>
+
 <a href="https://ssebuwufu.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=21759B&center=true&vCenter=true&width=620&lines=WordPress+Developer;Business+Systems+%26+Automation;Digital+Skills+Trainer;Websites+that+win+customers" alt="WordPress Developer · Business Systems & Automation · Digital Skills Trainer" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=24&duration=3000&pause=800&color=D20A00&center=true&vCenter=true&width=620&lines=WordPress+Developer;Business+Systems+%26+Automation;Digital+Skills+Trainer;Websites+that+win+customers" alt="WordPress Developer · Business Systems & Automation · Digital Skills Trainer" />
 </a>
 
 <p>
@@ -12,10 +14,10 @@
   and train teams to use digital tools in their everyday work.
 </p>
 
-<a href="https://ssebuwufu.com/contact/"><img src="https://img.shields.io/badge/Start_a_project-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white" alt="Start a project" /></a>
-<a href="https://ssebuwufu.com/work/"><img src="https://img.shields.io/badge/See_the_work-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See the work" /></a>
-<a href="https://www.linkedin.com/in/ssebuwufumoses"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/EduTechCenter"><img src="https://img.shields.io/badge/@EduTechCenter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://ssebuwufu.com/contact/"><img src="https://img.shields.io/badge/Get_started-0A0A0A?style=for-the-badge&logo=wordpress&logoColor=white" alt="Get started" /></a>
+<a href="https://ssebuwufu.com/work/"><img src="https://img.shields.io/badge/See_the_work_→-D20A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See the work" /></a>
+<a href="https://www.linkedin.com/in/ssebuwufumoses"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/EduTechCenter"><img src="https://img.shields.io/badge/@EduTechCenter-0A0A0A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
@@ -65,7 +67,7 @@
 
 <p align="center">
   <a href="https://ssebuwufu.com/services/">
-    <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,mysql,html,css,git,linux&perline=9" alt="WordPress, PHP, JavaScript, React, MySQL, HTML, CSS, Git, Linux" />
+    <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,mysql,html,css,git,linux&perline=9&theme=dark" alt="WordPress, PHP, JavaScript, React, MySQL, HTML, CSS, Git, Linux" />
   </a>
 </p>
 
@@ -75,8 +77,8 @@
 
 Share what you need, and the next steps follow.
 
-<a href="https://ssebuwufu.com/contact/"><img src="https://img.shields.io/badge/Get_started_→_ssebuwufu.com-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Get started at ssebuwufu.com" /></a>
+<a href="https://ssebuwufu.com/contact/"><img src="https://img.shields.io/badge/Get_in_touch_→-D20A00?style=for-the-badge&logo=wordpress&logoColor=white" alt="Get started at ssebuwufu.com" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21759B,100:0A66C2&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=90&section=footer" width="100%" alt="" />
