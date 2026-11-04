@@ -17,10 +17,10 @@
   <a href="https://ssebuwufu.com/digital-literacy/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/service-train-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/service-train-light.svg" /><img src="./assets/service-train-light.svg" width="98.6%" alt="Digital Literacy Training — practical digital skills for teachers, communities, small businesses and staff, in person or online." /></picture></a>
 </p>
 
-## Tech stack
+## My technology stack
 
 <p align="center">
-  <a href="https://ssebuwufu.com/services/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" /><img src="./assets/stack-light.svg" width="80%" alt="Tech stack: WordPress, PHP, JavaScript, React, MySQL, WooCommerce, HTML and CSS, Git" /></picture></a>
+  <a href="https://ssebuwufu.com/services/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" /><img src="./assets/stack-light.svg" width="100%" alt="Technology stack. Languages: HTML5, CSS3, JavaScript, PHP, SQL. Web development: WordPress, WooCommerce, Laravel, Elementor, Block Editor (Gutenberg), custom themes and plugins. Frontend: responsive web design, CSS frameworks, modern JavaScript, UI/UX implementation. Backend and databases: PHP, Laravel, MySQL, PostgreSQL, REST APIs, database design. E-commerce and integrations: WooCommerce, payment gateways, Pesapal, API integrations, automation and workflows. Tools and workflow: Git and GitHub, VS Code, Claude Code, WordPress Studio, local dev environments, Cloudflare. Hosting and deployment: Linux, Ubuntu, VPS management, domains and DNS, deployment and maintenance." /></picture></a>
 </p>
 
 <p align="center">
