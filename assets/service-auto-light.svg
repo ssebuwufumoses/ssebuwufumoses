@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="262" viewBox="0 0 600 262" role="img" aria-label="AI and Automation: Connect your website, forms, payments and apps so routine work runs itself.">
+<rect x="1" y="1" width="598" height="260" rx="22" fill="#FFFFFF" stroke="#D1D9E0" stroke-width="2"/>
+<rect x="36" y="32" width="56" height="56" rx="14" fill="#DDF4FF"/>
+<g transform="translate(36 32)" fill="none" stroke="#0969DA" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="19" cy="20" r="4"/><circle cx="37" cy="20" r="4"/><circle cx="28" cy="37" r="4"/><path d="M23 20h10M21 23l5 10M35 23l-5 10"/></g>
+<circle cx="544" cy="60" r="20" fill="#1F2328"/>
+<path d="M537 60h14M545 54l6 6-6 6" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="132" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#1F2328">AI &amp; Automation</text>
+<text x="36" y="168" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="19" fill="#59636E"><tspan x="36" dy="0">Connect your website, forms, payments and apps</tspan><tspan x="36" dy="27">so routine work runs itself.</tspan></text>
+<text x="36" y="232" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#0969DA">Learn more →</text>
+</svg>

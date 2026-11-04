@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="262" viewBox="0 0 1220 262" role="img" aria-label="Digital Literacy Training: Practical digital skills for teachers, communities, small businesses and staff, in person or online.">
+<rect x="1" y="1" width="1218" height="260" rx="22" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect x="36" y="32" width="56" height="56" rx="14" fill="#12263F"/>
+<g transform="translate(36 32)" fill="none" stroke="#4493F8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M13 23l15-7 15 7-15 7z"/><path d="M19 26v7c0 2 4 5 9 5s9-3 9-5v-7M43 23v9"/></g>
+<circle cx="1164" cy="60" r="20" fill="#F0F6FC"/>
+<path d="M1157 60h14M1165 54l6 6-6 6" fill="none" stroke="#161B22" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="132" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F0F6FC">Digital Literacy Training</text>
+<text x="36" y="168" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="19" fill="#9198A1"><tspan x="36" dy="0">Practical digital skills for teachers, communities, small businesses and staff, in person or online.</tspan></text>
+<text x="36" y="232" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#4493F8">View programmes →</text>
+</svg>
