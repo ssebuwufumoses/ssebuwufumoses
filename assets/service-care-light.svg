@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="262" viewBox="0 0 600 262" role="img" aria-label="Digital Care: Updates, security, fixes and new features, handled for you.">
+<rect x="1" y="1" width="598" height="260" rx="22" fill="#FFFFFF" stroke="#D1D9E0" stroke-width="2"/>
+<rect x="36" y="32" width="56" height="56" rx="14" fill="#DDF4FF"/>
+<g transform="translate(36 32)" fill="none" stroke="#0969DA" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M28 14l12 5v8c0 8-5 13-12 16-7-3-12-8-12-16v-8z"/><path d="M22.5 28.5l4 4 7-8"/></g>
+<circle cx="544" cy="60" r="20" fill="#1F2328"/>
+<path d="M537 60h14M545 54l6 6-6 6" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="132" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#1F2328">Digital Care</text>
+<text x="36" y="168" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="19" fill="#59636E"><tspan x="36" dy="0">Updates, security, fixes and new features,</tspan><tspan x="36" dy="27">handled for you.</tspan></text>
+<text x="36" y="232" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#0969DA">Learn more →</text>
+</svg>

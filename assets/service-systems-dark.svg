@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="262" viewBox="0 0 600 262" role="img" aria-label="Business Systems: Custom web apps and dashboards that replace spreadsheets and paperwork.">
+<rect x="1" y="1" width="598" height="260" rx="22" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+<rect x="36" y="32" width="56" height="56" rx="14" fill="#12263F"/>
+<g transform="translate(36 32)" fill="none" stroke="#4493F8" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="15" y="15" width="26" height="26" rx="4"/><path d="M21 35v-6M28 35V21M35 35v-9"/></g>
+<circle cx="544" cy="60" r="20" fill="#F0F6FC"/>
+<path d="M537 60h14M545 54l6 6-6 6" fill="none" stroke="#161B22" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="36" y="132" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F0F6FC">Business Systems</text>
+<text x="36" y="168" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="19" fill="#9198A1"><tspan x="36" dy="0">Custom web apps and dashboards that replace</tspan><tspan x="36" dy="27">spreadsheets and paperwork.</tspan></text>
+<text x="36" y="232" font-family="'DM Sans','Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#4493F8">Learn more →</text>
+</svg>
